@@ -1,0 +1,2 @@
+28, thiago, pequeno, teste@gmail.com, 13, att, att, 0.0, 10, tes2te
+28, thiago, pequeno, teste@gmail.com, 16, Desenvolvimento de Website, Projeto para desenvolver um website responsivo com integração a banco de dados., 5000.0, 10, tes2te
