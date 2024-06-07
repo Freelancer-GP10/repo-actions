@@ -19,7 +19,4 @@ public class ApiEndereco {
     private String logradouro;
     private String numero;
     private String UF;
-
-
-
 }
