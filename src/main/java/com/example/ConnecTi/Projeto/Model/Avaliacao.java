@@ -19,5 +19,4 @@ public class Avaliacao {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long idAvaliacao;
     private int nivel;
-
 }
